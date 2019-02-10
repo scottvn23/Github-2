@@ -1,2 +1,2 @@
-# Github-2
+# Github#2
 Javascript Slideshow
